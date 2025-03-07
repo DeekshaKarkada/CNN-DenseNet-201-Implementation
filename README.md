@@ -1,1 +1,1 @@
-# CNN-DenseNet-201-Implementation
+# CNN-DenseNet-201-Implementation for cifar10 dataset
